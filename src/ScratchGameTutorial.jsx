@@ -12,7 +12,7 @@ const steps = [
     images: ["/images/seating-chart-week9.png"],
   },
   {
-    title: "Step 1: Draw threee backdrops",
+    title: "Step 1: Draw three backdrops",
 
     images: [
       "/images/1_backdrop1.png",
