@@ -3,7 +3,7 @@ const steps = [
   {
     title: "Week 9 - Function art",
     description: "Today, we'll create art work using functions in Scratch!",
-    images: ["/images/first.png"],
+    images: ["/images/0_first.png"],
   },
   {
     title: "Seating Chart",
